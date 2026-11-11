@@ -1,0 +1,8 @@
+{
+  "name": "ios-skills-emil",
+  "owner": { "name": "Emmanueloluwadamilola" },
+  "metadata": { "description": "Emil Kowalski animation and UI-design skills. (curated mirror of https://github.com/emilkowalski/skills)" },
+  "plugins": [
+    { "name": "ios-skills-emil", "source": "./plugins/ios-skills-emil", "description": "Emil Kowalski animation and UI-design skills." }
+  ]
+}
